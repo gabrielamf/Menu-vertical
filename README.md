@@ -6,5 +6,5 @@ Este ejercicio forma parte de la primera unidad **"Maquetado web con HTML & CSS"
 
 * Para este ejercicio utilizamos todo lo aprendido en esta unidad, para crear un menu vertical, que responde al movimiento del puntero del mouse.
 
-![menu vertical](assets/images/http://i66.tinypic.com/2i6mt.gif)
+![menu vertical](http://i66.tinypic.com/2i6mt.gif)
 
